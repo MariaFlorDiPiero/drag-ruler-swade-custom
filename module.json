@@ -7,7 +7,7 @@
   "compatibleCoreVersion": "12",
   "author": "Maria Flor & ChatGPT",
   "scripts": ["swade-speed-provider.js"],
-  "url": "https://github.com/seuusuario/drag-ruler-swade-custom",
-  "manifest": "https://raw.githubusercontent.com/seuusuario/drag-ruler-swade-custom/main/module.json",
-  "download": "https://github.com/seuusuario/drag-ruler-swade-custom/archive/refs/heads/main.zip"
+  "url": "https://github.com/MariaFlorDiPiero/drag-ruler-swade-custom",
+  "manifest": "https://raw.githubusercontent.com/MariaFlorDiPiero/drag-ruler-swade-custom/main/module.json",
+  "download": "https://github.com/MariaFlorDiPiero/drag-ruler-swade-custom/releases/latest/download/drag-ruler-swade-custom.zip"
 }
