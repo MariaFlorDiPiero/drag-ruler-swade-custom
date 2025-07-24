@@ -1,0 +1,13 @@
+{
+  "name": "drag-ruler-swade-custom",
+  "title": "Drag Ruler - SWADE Custom",
+  "description": "Permite integração do Drag Ruler com Savage Worlds (SWADE), usando valores de Pace das fichas.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "12",
+  "author": "Maria Flor & ChatGPT",
+  "scripts": ["swade-speed-provider.js"],
+  "url": "https://github.com/seuusuario/drag-ruler-swade-custom",
+  "manifest": "https://raw.githubusercontent.com/seuusuario/drag-ruler-swade-custom/main/module.json",
+  "download": "https://github.com/seuusuario/drag-ruler-swade-custom/archive/refs/heads/main.zip"
+}
