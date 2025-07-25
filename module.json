@@ -9,5 +9,5 @@
   "scripts": ["swade-speed-provider.js"],
   "url": "https://github.com/MariaFlorDiPiero/drag-ruler-swade-custom",
   "manifest": "https://raw.githubusercontent.com/MariaFlorDiPiero/drag-ruler-swade-custom/main/module.json",
-  "download": "https://github.com/MariaFlorDiPiero/drag-ruler-swade-custom/releases/latest/download/drag-ruler-swade-custom.zip"
+  "download": "https://github.com/MariaFlorDiPiero/drag-ruler-swade-custom/releases/download/v1.0.0/drag-ruler-swade-custom.1.zip"
 }
